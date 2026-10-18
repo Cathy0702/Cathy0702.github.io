@@ -1,0 +1,25 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "fun"
+    name = "Fun"
+    url = "/fun"
+    weight = 2
+
+# Social Media Configuration
+
+[[social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/cathy-liu-aa1b59250/"
+    weight = 1
+
+[[social]]
+    identifier = "email"
+    name = "Email"
+    url = "mailto:cathy2020liu@gmail.com"
+    weight = 2
